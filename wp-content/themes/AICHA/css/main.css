@@ -1,0 +1,28 @@
+.header {
+background: #377bb5;
+position: relative;
+margin-top: -2%;
+}
+#navigation-principale li {
+position: relative;
+display: inline-block;
+padding: 10px;
+font-weight: 500;
+}
+#navigation-principale li a {
+color: #fff;
+}
+.jumbotron
+{
+  background-image: url('../image/background.jpg') ;
+  height: 20em;
+}
+.jumbotron .h1, .jumbotron h1 {
+    color: inherit;
+}
+
+.h2 {
+  position: relative;
+  left: 70px;
+  
+}
